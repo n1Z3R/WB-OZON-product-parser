@@ -1,5 +1,4 @@
 # Wildberries and OZON parser
 ![versionpython](https://img.shields.io/pypi/pyversions/selenium)
 ### About
-Get position of product on pages by search request 
-and save result in Excel file (sites: Wildberries, OZON)
+Getting the position of the product on the pages by search query and saving in Excel (sites: Wildberries, OZON)
